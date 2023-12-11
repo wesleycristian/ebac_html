@@ -17,8 +17,8 @@ body, input, textarea {
 
 header {
     padding: 16px 0;
-    background-color: #182c61;
-    color: #ecf0f1;
+    background-color: #01040c;
+    color: #06b406;
 }
 
 header nav li {
@@ -28,7 +28,7 @@ header nav li {
 }
 
 header nav li a {
-    color: #ecf0f1;
+    color: #06b406;
     text-decoration: none;
 }
 
