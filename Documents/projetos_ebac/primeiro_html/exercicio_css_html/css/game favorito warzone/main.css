@@ -71,8 +71,10 @@ section {
 section p {
     margin-bottom: 8px;
 }
-.story-font {
-    margin-right: 32px;
+.warzone {
+    margin-right: 30px;
+    height: 350px;
+    right: 20px;
 }
 .Social-links img {
     height: 24px;
